@@ -1,6 +1,5 @@
-baseurl = "https://tracybannon.github.io/tracybannon.github.io/"
+baseurl = "https://tracybannon.github.io/"
 theme = "hugo-geo"
-relativeURLs = false
 languageCode = "en-us"
 title = "Tech with Trac"
 disqusShortname = "shortcode-here"
